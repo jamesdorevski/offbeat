@@ -2,6 +2,11 @@
 
 Offbeat automatically add worklogs into your Tempo timesheet.
 
+## Installation
+
+1. Download the appropriate binary for your OS from the [releases page](https://github.com/jamesdorevski/offbeat/releases).
+2. Extract and move the binary to a directory in your `$PATH` (e.g. `/usr/local/bin`).
+
 ## Usage
 
 ```shell
